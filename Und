@@ -1,0 +1,11 @@
+# مقداردهی اولیه به Git
+git init
+
+# افزودن همه فایل‌ها به لیست تغییرات
+git add .
+
+# ثبت تغییرات با پیام
+git commit -m "First commit"
+
+# وصل کردن پروژه به مخزن GitHub (آدرس از صفحه مخزن کپی کن)
+git remote add origin https://github.com/username/test-project.git
